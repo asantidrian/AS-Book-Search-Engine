@@ -1,3 +1,4 @@
+# dependencies
 node_modules/
 /.pnp
 .pnp.js
@@ -19,5 +20,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-.eslintcachenode_modules
-npm-debug.log
+.eslintcache
