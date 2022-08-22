@@ -1,7 +1,7 @@
 {
-  "name": "book-search-engine-client",
+  "name": "client",
   "version": "0.1.0",
-  "description": "Book Search Engine Client",
+  "description": "",
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {

@@ -20,7 +20,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
     "jwt-decode": "^3.1.2",
-    "react-scripts": "^2.1.3"
+    "react-scripts": "^5.0.1"
   }
 }
